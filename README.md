@@ -1,2 +1,2 @@
 # villagesSelfDevelopment.ua
-CollaborationCitizen in villages for making smoll sotial progects
+CollaborationCitizen in villages for making small sotial progects
